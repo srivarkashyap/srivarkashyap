@@ -1,6 +1,14 @@
-<h1 align="center">Hi 👋, I'm Srivar Kashyap</h1>
+ <h1 align="center">Hi 👋, I'm Srivar Kashyap</h1>
 <h3 align="center">Data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 I’m currently learning **scilit-learn**
+
+- 💬 Ask me about **Machine learning**
+
+- 📫 How to reach me **srivarkashyap@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
