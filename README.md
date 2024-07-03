@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)](http://srivarkashyap.io)  
  <h1 align="center">Hi 👋, I'm Srivar Kashyap</h1>
 <h3 align="center">Data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **scilit-learn**
 
