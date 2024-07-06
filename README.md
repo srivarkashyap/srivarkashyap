@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **srivarkashyap@gmail.com**
 
-- ⚡ Fun fact **I can play piano**
+- ⚡ Fun fact **programmers prefer dark mode...Because light attracts bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
